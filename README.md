@@ -5,7 +5,7 @@
 This is a repository to organize and share my personal data science projects! 
 
 1. [Scraping Oil Production Data from Web and Storing the Results in a RDBS](https://github.com/johnyo/PersonalProjects)
-    - [Python](https://github.com/darwin-a/PersonalProjects/tree/master/Personal%20Programming%20Projects/Python)
+    - [Python](https://github.com/darwin-a/PersonalProjects/tree/master/Persohhhnal%20Programming%20Projects/Python)
       - Data Science
       - Scripts
       - Software Development
