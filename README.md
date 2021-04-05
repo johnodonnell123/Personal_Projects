@@ -2,7 +2,7 @@
 
 ## Index:
 
-This is a repository to organize and share my personal data science projects! 
+This is a repository to organize and share my personal data science projects! <br>
 You can also find this information on my [GitHub Webpage](https://johnodonnell123.github.io)
 
 1. [Scraping, Storing, and Visualizing Oil Well Production Data](https://github.com/johnyo/PersonalProjects)
