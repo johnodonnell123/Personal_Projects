@@ -6,9 +6,9 @@ This is a repository to organize and share my personal data science projects! He
 For more detail please see these projects on my [personal page](https://johnodonnell123.github.io).
 
 1. Oil and Gas Well Production Data: Scraping, Storing, and Visualization
-  - [Web Scraping with Scrapy Spiders to SQLite3](https://github.com/johnodonnell123/Personal_Projects/tree/master/Scraping%20Oil%20Production%20with%20Scrapy)
-  - [SQL and Pandas](https://github.com/johnodonnell123/Personal_Projects/tree/master/Scraping%20Oil%20Production%20with%20Scrapy)
-  - [Data Visualization with Plotly](https://github.com/johnodonnell123/Personal_Projects/tree/master/Scraping%20Oil%20Production%20with%20Scrapy)
+    - [Web Scraping with Scrapy Spiders to SQLite3](https://github.com/johnodonnell123/Personal_Projects/tree/master/Scraping%20Oil%20Production%20with%20Scrapy)
+    - [SQL and Pandas](https://github.com/johnodonnell123/Personal_Projects/tree/master/Scraping%20Oil%20Production%20with%20Scrapy)
+    - [Data Visualization with Plotly](https://github.com/johnodonnell123/Personal_Projects/tree/master/Scraping%20Oil%20Production%20with%20Scrapy)
 
 ## Background
 
