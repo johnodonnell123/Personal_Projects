@@ -5,7 +5,7 @@
 This is a repository to organize and share my personal data science projects!
 
 1. [Scraping, Storing, and Visualizing Oil Well Production Data](https://github.com/johnyo/PersonalProjects)
-    - This is a general overview of my project, I expand on many aspects of it in the items below:
+    - This is an A-Z project, which can be broken down into pieces and expanded upon:
       - Web Scraping with Scrapy Spiders to SQLite3
       - SQL and Pandas
       - Data Visualization with Plotly
