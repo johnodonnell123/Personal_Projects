@@ -9,18 +9,21 @@ This is the first in a sequence of mini-projects in which I go on to [query this
 
 ## Problem Statement
 
-We need quick and reliable access to production data avaliable for oil and gas wells in a given area. 
-This information is avaliable on a webpage, but there is no easy way to export this data and the format it is currently in is not suitable for analysis. 
-The structure of the pages are slighly different between wells, as some wells are missing data and the field is completely omitted.
-We are interested in two sets of data, general information on the well (location/name/etc) and the production data (monthly reported volumes through time).
+We need quick and reliable access for data on Oil and Gas wells in a given region. 
+This information is avaliable on a government run website, but there is no way to export this data, making an analysis over thousands of wells impossible.
+Our goal is to take this data and store it in a database that is more suitable for querying and analysis, a common first step in projects.
 
 ## Methodology
 
-I generated two Scrapy Spiders to collect data for these datasets. 
-The website provides a list of file numbers that we can filter down, and then append onto the tail end of a URL to access the webpage.
-For the general well information I used xPath notation to determine if the field I wanted to scrape existed on the page, then yield the following sibling nodes text attribute. 
-The production information was more straightforward as it existed in a table. I simply iterated through the rows of the table, yielding the relevent data.
-Finally, I used two pipelines to create and fill tables in a SQLite3 database for each dataset.
+Two Scrapy Spiders are generated and used to crawl a differnt dataset. One will retrieve headers (general info) and the other production data (volumes through time).
+Scrapy pipelines will be used to store these datasets into a local, lightweight database (SQLite 3)
+
+## Unique Challanges and Solutions:
+  1. The website requres authentication: Default request headers are overwritten and basic credentials are provided with base64 encoding
+  2. Links to other pages are not found on any page: Python list compregensions are used to create a list of URLs to crawl, concatenating query strings
+  3. We have time series data as well as traditional: Two spiders are used with two pipelines to populate two tables in a relational database that share a key
+  4. The fields are not always in the same order on each page: xPath expressions are used to be very specific and select nodes by text, then get thier following-sibling nodes/attributes
+  5. Chrome inserted <td> tags into the HTML in the developer tools, causing many queries to return nothing: These tags were replaced with "/?
 
 ## Result/Value
 
