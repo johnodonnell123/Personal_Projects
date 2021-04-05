@@ -2,15 +2,13 @@
 
 ## Index:
 
-This is a repository to organize and share my personal data science projects! 
+This is a repository to organize and share my personal data science projects! You can also find this information on my [GitHub Webpage](https://johnodonnell123.github.io)
 
-1. [Scraping Oil Production Data from Web and Storing the Results in a RDBS](https://github.com/johnyo/PersonalProjects)
-    - [Python](https://github.com/darwin-a/PersonalProjects/tree/master/Persohhhnal%20Programming%20Projects/Python)
-      - Data Science
-      - Scripts
-      - Software Development
-
-Each category has their own variety of projects and should be accompanied by some form of documentation. 
+1. [Scraping, Storing, and Visualizing Oil Well Production Data](https://github.com/johnyo/PersonalProjects)
+    - This is a general overview of my project, I expand on many aspects of it in the items below:
+      - Web Scraping with Scrapy Spiders to SQLite3
+      - SQL and Pandas
+      - Data Visualization with Plotly
 
 ## Background
 
