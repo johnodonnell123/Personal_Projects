@@ -2,7 +2,7 @@
 
 ## Useful Information
 
-Enclosed is a Scrapy project folder containing all of the information used in this project. 
+Enclosed is a Scrapy project folder containing all of the necessary content used in this project. 
 This project uses two spiders to scrape data for ~15,000 oil wells from a government run webpage, and pipeline the results into a relational database (SQLite3)
 
 This is the first in a sequence of projects in which I go on to [query this database](https:linkhere) and [perform some visual EDA](https://linkhere2)
