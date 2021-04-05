@@ -22,6 +22,6 @@ Most of my projects will be using datasets from the Oil and Gas domain, as this 
 
 |||
 | --- | --- |
-|  GitHub Website | https://johnodonnell123.github.io |
+|  Personal Website | https://johnodonnell123.github.io |
 |  Email | johnodonnell123@gmail.com |
 | LinkedIn | www.linkedin.com/in/johnodonnell93 |
