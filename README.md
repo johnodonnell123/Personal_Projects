@@ -20,6 +20,7 @@ Most of my projects will be using datasets from the Oil and Gas domain, as this 
 
 ### Contact Information
 
-|   |
+|  |  |
+| --- | --- |
 |  Email | johnodonnell123@gmail.com |
 | LinkedIn | www.linkedin.com/in/johnodonnell93 |
