@@ -2,7 +2,7 @@
 
 ## Index:
 
-This is a repository to organize and share my personal data science projects! Here you will find the source code for all of the projects and a high level overview of each.
+This is a repository to organize and share my personal data science projects! Here you will find the source code for all of the projects as well as a high level overview. 
 For more detail please see these projects on my [personal page](https://johnodonnell123.github.io).
 
 1. Oil and Gas Well Production Data: Scraping, Storing, and Visualization
