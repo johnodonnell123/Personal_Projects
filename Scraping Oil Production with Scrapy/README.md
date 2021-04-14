@@ -26,7 +26,7 @@ Scrapy pipelines will be used to store these datasets into a local, lightweight 
   4. The fields are not always in the same order on each page: xPath expressions are used to be very specific and select nodes by text, then get thier following-sibling nodes/attributes
   5. Chrome inserted <td> tags into the HTML in the developer tools, causing many queries to return nothing: These tags were replaced with "/?
 
-## Result/Value
+## Result / Value
 
 The result is a local, lightweight database that contains all of the relevent information we need. 
 The database houses both of our datasets and allows for quick and easy data querying and analysis of both tables. 
