@@ -7,8 +7,7 @@ For more detail please see these projects on my [personal page](https://johnodon
 
 1. Oil and Gas Well Production Data: Scraping, Storing, and Visualization
     - [Web Scraping with Scrapy Spiders to SQLite3](https://github.com/johnodonnell123/Personal_Projects/tree/master/Scraping%20Oil%20Production%20with%20Scrapy)
-    - [SQL and Pandas](https://github.com/johnodonnell123/Personal_Projects/tree/master/Scraping%20Oil%20Production%20with%20Scrapy)
-    - [Data Visualization with Plotly](https://github.com/johnodonnell123/Personal_Projects/tree/master/Scraping%20Oil%20Production%20with%20Scrapy)
+    - [Oil Production EDA with SQL and Plotly](https://github.com/johnodonnell123/Personal_Projects/tree/master/Scraping%20Oil%20Production%20with%20Scrapy)
 
 ## Background
 
