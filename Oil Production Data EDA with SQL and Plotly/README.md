@@ -2,7 +2,7 @@
 
 ## Useful Information
 
-Enclosed is a Jupyter Notebook with all of the SQL statements and the functions I used to plot the production. I cannot provide the raw dataset as it is dervied from a website with a paid subscription. A more thorough walkthrough can be found [here](https://johnodonnell123.github.io/pages/page_cluster.html).
+Enclosed is a Jupyter Notebook with all of the SQL statements and the functions I used to plot the production. I cannot provide the raw dataset as it is dervied from a website with a paid subscription. A more thorough walkthrough can be found [here](https://johnodonnell123.github.io/pages/page_EDA.html).
 
 ## Problem Statement / Value
 
