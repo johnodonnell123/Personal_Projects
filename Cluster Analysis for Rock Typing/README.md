@@ -22,7 +22,7 @@ a K-Means clustering algorithm is fit to the dataset. The results are viewed in 
 ## Result / Value
 
 The result is a new log comprised of clusters that represent rock types. This information can be used for a host of purposes including:
-- Well Planning
-- Wellbore Stability Studies
-- Reservoir Mapping
-- Reservoir Characterization
+- Well Planning: When drilling a well we need to know what types of rocks we are going through
+- Wellbore Stability: Salt costs operators millions of dollars due to its impact on the integrity of the wellbore
+- Reservoir Mapping: Understanding when a facies appears/thickens/changes would cause an M&A team to value some areas more than others
+- Reservoir Characterization: Some rock types (clusters) have different properties such a permeability which have a strong influence of production and how we might forecast cash flows from a well
