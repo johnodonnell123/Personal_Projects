@@ -4,7 +4,7 @@
 
 Enclosed is a .csv file with the log data as well as Jupyter Notebook stepping through the workflow. A more thorough walkthrough can be found [here](https://johnodonnell123.github.io/pages/page_cluster.html).
 
-## Problem Statement / Value
+## Problem Statement
 
 Interpretation of well log data can be a very time consuming and biased process. It is not uncommon for a petrophysicist to have to interpet thousands of logs all with tens of 
 thousands of feet of data. If you ask two people to interpret the same data set you will recieve wildly different results. These interpretations are often used in reservoir 
