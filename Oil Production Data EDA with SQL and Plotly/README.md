@@ -11,7 +11,7 @@ Data for 15,000 oil and gas wells in the Williston Basin is avaliable for analys
 SQL is used to retrieve data from two separate but related tables. One table contains general well information while the other contains prouction volumes through time for each well (time-series).`JOIN` statements combine these two tables and `GROUP BY` statements are used to aggregate oil production by several different variables. Production is aggregated for different operators (companies) and different parts of the basin (indicative of the geologic influence of the area). Two DataFrames are created from each table and functions are defined to create plots drawing from each of them. Simple production plots are created as well as more complex views that allow us to average the time-series data when binned by other features.
 
 ## Unique Challanges and Solutions:
-1. Working with tabular and time-series data has unique challenges, outright joining them creates an very large DataFrame that becomes unweildy
+1. Working with tabular and time-series data has unique challenges, outright joining them creates an very large DataFrame that becomes unweildy. Referencing them with a common key combined with the pandas `.loc` indexing operator proves useful.
 2. Production Data is reported in months, with number of producing days for each month. The best representation of producing time is to create an array of the cumulative producing days, however this makes averaging across different wells difficult. Linear interpolation is used to generate "monthly" values every 30.4 days which are then used for averaging. 
 
 ## Result / Value
