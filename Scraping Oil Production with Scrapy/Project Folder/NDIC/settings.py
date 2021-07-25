@@ -40,7 +40,7 @@ ROBOTSTXT_OBEY = True
 
 # Override the default request headers:
 DEFAULT_REQUEST_HEADERS = {'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36',
-'Authorization': 'Basic zm9obm9kb25uZWxsOiNIdW1ibGU0VFg='}
+'Authorization': 'Basic Zm9obm9kb25uZWxsOiNIdW1ibGU0VFg='}
 
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
