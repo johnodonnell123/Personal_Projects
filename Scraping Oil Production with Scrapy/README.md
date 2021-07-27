@@ -5,7 +5,7 @@
 Enclosed is a Scrapy project folder containing all of the necessary content used in this project. 
 This project uses two spiders to scrape data for ~15,000 oil wells from a government run webpage, and pipeline the results into a relational database (SQLite3)
 
-A more thorough walkthrough can be found on [my website](https://johnodonnell123.github.io/pages/page_scrapy.html).
+**A more thorough walkthrough can be found on [my website](https://johnodonnell123.github.io/pages/page_scrapy.html).**
 
 ## Problem Statement
 
