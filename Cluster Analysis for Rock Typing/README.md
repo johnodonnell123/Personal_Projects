@@ -2,7 +2,9 @@
 
 ## Useful Information
 
-Enclosed is a .csv file with the log data as well as Jupyter Notebook stepping through the workflow. A more thorough walkthrough can be found [here](https://johnodonnell123.github.io/pages/page_cluster.html).
+Enclosed is a .csv file with the log data as well as Jupyter Notebook stepping through the workflow. 
+
+**A more thorough walkthrough can be found [here](https://johnodonnell123.github.io/pages/page_cluster.html).**
 
 ## Problem Statement
 
