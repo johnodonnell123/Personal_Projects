@@ -4,7 +4,7 @@
 
 This is a repository to organize and share my personal data science projects! Here you will find the source code for all of the projects as well as a high level overview. 
 
-## For more detail please see these projects on my [personal page](https://johnodonnell123.github.io).
+## For more thorough walkthrough of these projects please see my [personal page](https://johnodonnell123.github.io).
 
 - [Web Scraping with Scrapy Spiders to SQLite3](https://github.com/johnodonnell123/Personal_Projects/tree/master/Scraping%20Oil%20Production%20with%20Scrapy)
 - [Oil Production Data EDA with SQL and Plotly](https://github.com/johnodonnell123/Personal_Projects/tree/master/Oil%20Production%20Data%20EDA%20with%20SQL%20and%20Plotly)
