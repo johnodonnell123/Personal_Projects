@@ -15,9 +15,7 @@ This is a repository to organize and share my personal data science projects! He
 
 Howdy! 
 
-My name is John ODonnell and I would like to briefly introduce myself! Most of my formal education has been in geoscience, and for the past ~3 years I have worked as a geoscientist for a Houston based oil and gas company. As a geoscientist I was tasked with understanding how to relate the properties of geologic reservoirs to the performance of the wells attempting to drain them. I worked with large multidisciplinary datasets that are full of noise, uncertainty, and bias. Using traditional Data Science techniques, I was able to draw meaningful conclusions and reveal impactful relationships hidden within these complex datasets. I used Python daily for data analysis, data visualizaiton, and I have built many machine learning models that I plan to share here. 
-
-Most of my projects will be using datasets from the Oil and Gas domain, as this is where my expertise is currently the strongest. My hope is to explain these projects and concepts in a way that is clear, informative, and exciting. 
+My name is John ODonnell and I would like to briefly introduce myself! Most of my formal education has been in geoscience, and from 2018 to 2021 I worked as a geoscientist for a Houston based oil and gas company. As a geoscientist I was tasked with understanding how to relate the properties of geologic reservoirs to the performance of the wells attempting to drain them. Using traditional Data Science techniques, I was able to draw meaningful conclusions and reveal impactful relationships hidden within these complex datasets. I used Python for data analysis, data visualizaiton, and I have built several machine learning models as well. I am now a Data Scientist with ClassPass, outside of the oil and gas domain, however I still enjoy working these data sets and will continue to share here!
 
 ### Contact Information
 
