@@ -1,4 +1,8 @@
-# DataBase Fiels
+# CSVs
+*.csv*
+*.CSV*
+
+# DataBase Files
 *.db*
 *.Db*
 
