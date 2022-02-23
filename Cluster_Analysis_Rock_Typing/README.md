@@ -17,7 +17,7 @@ and repeatable. There is still room for interpretation, however it is reasonably
 Log data for one well is imported into a Pandas DataFrame. Irrelevent logs are then removed, and what is left is cleaned. The data is then standardized to remove scaling bias and
 a K-Means clustering algorithm is fit to the dataset. The results are viewed in a log plot, and the clusters are interpreted to be distinct rock types.
 
-## Unique Challanges and Solutions:
+## Unique Challenges and Solutions:
   1. Rocks are a mixed medium comprised of various proportions of minerals. It is rare to have a homogenous layer that is thick enough to be read by logging tools. This makes the determination of the number of clusters difficult as our groups are rarely easily defined graphically. That being said, the results of using K-Means do represent unique rock types and viewing the results is much more intuitive with a log plot. It is best to approach the workflow iteratively, and modify the number of clusters with an exploration mindset. This requires domain knowledge of the logs and rock types.
  
 ## Result / Value
