@@ -8,8 +8,7 @@ Enclosed is a .csv file with the log data as well as Jupyter Notebook stepping t
 
 ## Problem Statement
 
-Interpretation of well log data can be a very time consuming and biased process. It is not uncommon for a petrophysicist to have to interpet thousands of logs all with tens of 
-thousands of feet of data. If you ask two people to interpret the same data set you will recieve wildly different results. These interpretations are often used in reservoir 
+Interpretation of well log data can be a very time consuming and biased process. It is not uncommon for a petrophysicist to interpet thousands of logs all with tens of thousands of feet of data. Its also highly unlikely you will recieve the same interpretation of the data from two different professionals. These interpretations are often used in reservoir 
 simlulation and in the forecasting of oil production for wells, making them very important in any corporate model. K-means allows us to make this process faster, more accurate,
 and repeatable. There is still room for interpretation, however it is reasonably bounded and arguably easier to explain. 
 
