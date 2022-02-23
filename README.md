@@ -13,6 +13,6 @@ This is a repository to organize and share my personal data science projects! He
 
 ### Contact Information
 
-|||
+| --- | --- |
 |  Email | johnodonnell123@gmail.com |
 | LinkedIn | www.linkedin.com/in/johnodonnell93 |
